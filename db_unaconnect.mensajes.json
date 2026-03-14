@@ -1,0 +1,83 @@
+[{
+  "_id": "MSG-001",
+  "conversacion_id": "CONV-001",
+  "remitente_id": "USR-001",
+  "destinatario_id": "USR-002",
+  "tipo": "texto",
+  "contenido": {
+    "texto": "Hola Diego, ya hizo el lab de bd para copiarselo?"
+  },
+  "leido": true,
+  "fecha_lectura": {
+    "$date": "2026-03-01T16:15:00.000Z"
+  },
+  "fecha": {
+    "$date": "2026-03-01T16:05:00.000Z"
+  }
+},
+{
+  "_id": "MSG-002",
+  "conversacion_id": "CONV-001",
+  "remitente_id": "USR-002",
+  "destinatario_id": "USR-001",
+  "tipo": "texto",
+  "contenido": {
+    "texto": "Si, pero no se la voy a pasar, desgraciado"
+  },
+  "leido": true,
+  "fecha_lectura": {
+    "$date": "2026-03-13T22:32:14.980Z"
+  },
+  "fecha": {
+    "$date": "2026-03-01T16:20:00.000Z"
+  }
+},
+{
+  "_id": "MSG-003",
+  "conversacion_id": "CONV-001",
+  "remitente_id": "USR-002",
+  "destinatario_id": "USR-001",
+  "tipo": "comparticion",
+  "contenido": {
+    "publicacion_id": "PUB-004"
+  },
+  "leido": true,
+  "fecha_lectura": {
+    "$date": "2026-03-13T22:32:14.980Z"
+  },
+  "fecha": {
+    "$date": "2026-03-01T16:22:00.000Z"
+  }
+},
+{
+  "_id": "MSG-004",
+  "conversacion_id": "CONV-002",
+  "remitente_id": "USR-003",
+  "destinatario_id": "USR-004",
+  "tipo": "texto",
+  "contenido": {
+    "texto": "Profe, hagame el lab de compass"
+  },
+  "leido": true,
+  "fecha_lectura": {
+    "$date": "2026-03-06T05:30:00.000Z"
+  },
+  "fecha": {
+    "$date": "2026-03-06T05:10:00.000Z"
+  }
+},
+{
+  "_id": "MSG-005",
+  "conversacion_id": "CONV-002",
+  "remitente_id": "USR-004",
+  "destinatario_id": "USR-003",
+  "tipo": "comparticion",
+  "contenido": {
+    "publicacion_id": "PUB-001"
+  },
+  "leido": false,
+  "fecha_lectura": null,
+  "fecha": {
+    "$date": "2026-03-05T20:45:00.000Z"
+  }
+}]

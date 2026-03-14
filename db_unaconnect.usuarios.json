@@ -1,0 +1,86 @@
+[{
+  "_id": "USR-001",
+  "tipo": "estudiante",
+  "nombre": "Maria Cascante Villalobos",
+  "alias": "@mcascante",
+  "correo": "mcascante@est.una.ac.cr",
+  "campus": "Coto",
+  "carrera": "BA-INFORM",
+  "creditos_aprobados": 72,
+  "intereses": [
+    "bases de datos",
+    "diseño web"
+  ],
+  "verificado": true,
+  "seguidores_count": 145
+},
+{
+  "_id": "USR-002",
+  "tipo": "estudiante",
+  "nombre": "Diego Arroyo Badilla",
+  "alias": "@darroyo",
+  "correo": "darroyo@est.una.ac.cr",
+  "campus": "Perez Zeledon",
+  "carrera": "BA-INFORM",
+  "creditos_aprobados": 96,
+  "intereses": [
+    "ciberseguridad",
+    "redes"
+  ],
+  "verificado": true,
+  "seguidores_count": 210
+},
+{
+  "_id": "USR-003",
+  "tipo": "estudiante",
+  "nombre": "Valeria Jimenez Ulate",
+  "alias": "@vjimenez",
+  "correo": "vjimenez@est.una.ac.cr",
+  "campus": "Coto",
+  "carrera": "BA-INFORM",
+  "creditos_aprobados": 36,
+  "intereses": [
+    "diseño UX",
+    "bases de datos",
+    "videojuegos",
+    "ciberseguridad"
+  ],
+  "verificado": true,
+  "seguidores_count": 58
+},
+{
+  "_id": "USR-004",
+  "tipo": "profesor",
+  "nombre": "Jeremy Elizondo Castro",
+  "alias": "@jelizondo",
+  "correo": "jeremy.elizondo@una.cr",
+  "campus": "Coto",
+  "titulo": "ING",
+  "especializaciones": [
+    "Bases de Datos"
+  ],
+  "materias_imparte": [
+    "EIF211"
+  ],
+  "verificado": true,
+  "seguidores_count": 100
+},
+{
+  "_id": "USR-005",
+  "tipo": "profesor",
+  "nombre": "Hairol Romero Sandi",
+  "alias": "@hromero",
+  "correo": "hairol.romero@una.cr",
+  "campus": "Perez Zeledon",
+  "titulo": "MATI",
+  "especializaciones": [
+    "Bases de Datos",
+    "Inteligencia Artificial"
+  ],
+  "materias_imparte": [
+    "EIF211",
+    "EIF310"
+  ],
+  "verificado": true,
+  "seguidores_count": 1105
+}]

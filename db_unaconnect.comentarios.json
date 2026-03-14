@@ -1,0 +1,44 @@
+[{
+  "_id": "COM-001",
+  "publicacion_id": "PUB-001",
+  "autor_id": "USR-001",
+  "texto": "Ya instale MongoDB Compass.",
+  "likes": 5,
+  "respuesta_a": null,
+  "fecha": {
+    "$date": "2026-02-17T19:22:00.000Z"
+  }
+},
+{
+  "_id": "COM-002",
+  "publicacion_id": "PUB-001",
+  "autor_id": "USR-004",
+  "texto": "Excelente @mcascante!",
+  "likes": 12,
+  "respuesta_a": "COM-001",
+  "fecha": {
+    "$date": "2026-02-17T19:35:00.000Z"
+  }
+},
+{
+  "_id": "COM-003",
+  "publicacion_id": "PUB-002",
+  "autor_id": "USR-003",
+  "texto": "Este PDF me salvo la vida para el Examen Corto #1!",
+  "likes": 28,
+  "respuesta_a": null,
+  "fecha": {
+    "$date": "2026-02-24T16:15:00.000Z"
+  }
+},
+{
+  "_id": "COM-004",
+  "publicacion_id": "PUB-003",
+  "autor_id": "USR-002",
+  "texto": "Vote por miercoles.",
+  "likes": 3,
+  "respuesta_a": null,
+  "fecha": {
+    "$date": "2026-02-25T23:05:00.000Z"
+  }
+}]

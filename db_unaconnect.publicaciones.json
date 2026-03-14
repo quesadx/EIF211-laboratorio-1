@@ -1,0 +1,87 @@
+[{
+  "_id": "PUB-001",
+  "autor_id": "USR-004",
+  "tipo": "texto",
+  "contenido": {
+    "texto": "Hoy iniciamos EIF211. En 17 semanas aprenderemos a diseñar bases de datos relacionales y NoSQL. Bienvenidos!"
+  },
+  "etiquetas": [
+    "EIF-211",
+    "bienvenida",
+    "mongodb"
+  ],
+  "likes": 67,
+  "fecha": {
+    "$date": "2026-02-17T19:05:00.000Z"
+  },
+  "visibilidad": "pública"
+},
+{
+  "_id": "PUB-002",
+  "autor_id": "USR-005",
+  "tipo": "recurso",
+  "contenido": {
+    "titulo": "Guia rapida de Algebra Relacional",
+    "url": "https://una.ac.cr/recursos/algebra-relacional.pdf",
+    "tipo_recurso": "PDF"
+  },
+  "etiquetas": [
+    "EIF-211",
+    "algebra-relacional",
+    "material-de-estudio"
+  ],
+  "likes": 134,
+  "fecha": {
+    "$date": "2026-02-24T15:30:00.000Z"
+  },
+  "visibilidad": "publica"
+},
+{
+  "_id": "PUB-003",
+  "autor_id": "USR-001",
+  "tipo": "encuesta",
+  "contenido": {
+    "pregunta": "Que horario prefieren para el grupo de estudio de EIF-211?",
+    "opciones": [
+      {
+        "opcion": "Lunes 6pm",
+        "votos": 8
+      },
+      {
+        "opcion": "Miercoles 5pm",
+        "votos": 14
+      },
+      {
+        "opcion": "Sabado 9am",
+        "votos": 3
+      }
+    ]
+  },
+  "etiquetas": [
+    "EIF-211",
+    "grupo-de-estudio",
+    "encuesta"
+  ],
+  "likes": 22,
+  "fecha": {
+    "$date": "2026-02-25T22:00:00.000Z"
+  },
+  "visibilidad": "publica"
+},
+{
+  "_id": "PUB-004",
+  "autor_id": "USR-002",
+  "tipo": "texto",
+  "contenido": {
+    "texto": "Resolviendo la normalizacion de la Sesion 5. Queda en FNBC con 3 tablas."
+  },
+  "etiquetas": [
+    "normalizacion",
+    "estudio"
+  ],
+  "likes": 9,
+  "fecha": {
+    "$date": "2026-03-18T02:45:00.000Z"
+  },
+  "visibilidad": "privada"
+}]
